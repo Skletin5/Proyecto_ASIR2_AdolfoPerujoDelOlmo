@@ -12,7 +12,7 @@
 
 
 ## Nombre del alumno: Adolfo Perujo Del Olmo
-## Título del proyecto: Servidor 
+## Título del proyecto: Servidor local en tienda de mantenimiento remoto  
 
 ## Índice del proyecto
 
