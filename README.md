@@ -11,23 +11,28 @@
 ![Escalabilidad y Cloud](https://img.shields.io/badge/Infraestructura-Cloud%20%26%20Escalable-purple)
 
 
-## Nombre del alumno:
-## Título del proyecto:
+## Nombre del alumno: Adolfo Perujo Del Olmo
+## Título del proyecto: Servidor 
 
 ## Índice del proyecto
 
 ### [UD1 – Análisis del entorno y detección de necesidades tecnológicas](./UD1/ud1.md)
 1. Análisis del sector tecnológico    
 2. Selección de la empresa o contexto de trabajo  
-3. Identificación de necesidades tecnológicas  
-4. Oportunidades y viabilidad del proyecto  
-5. Obligaciones legales y normativas  
-6. Guion inicial del proyecto  
+    La empresa sobre la que realizare el proyecto es un estudio de estetica de sevilla: MP Makeup & Hairstyle.
+    En su estudio estilizan las manos y peinados de sus clientas para eventos o para la vida cotidiana.
+4. Identificación de necesidades tecnológicas  
+5. Oportunidades y viabilidad del proyecto  
+6. Obligaciones legales y normativas  
+7. Guion inicial del proyecto  
+    Desarrollar a traves de Jenkins un pipeline que de forma automatica lance y actualize servicios online para la empresa. Este clonara archivos de configuración desde un repositorio,
+    a partir de estos, lanzara un contenedor con el servicio web y con una base de datos que registre las reservas de las clientas.
 ---
 
 ### [UD2 – Diseño técnico de la infraestructura empresarial segura y automatizada](./UD2/ud2.md)
 1. Recopilación de información técnica  
 2. Diseño lógico y físico de la infraestructura  
+    El local dispondra de un servidor físico en el que se alojarán los datos, en el se instalara un sistema operativo basado en linux donde se tendra instalado docker y jenkins para el proyecto, 
 3. Definición de objetivos y fases del proyecto  
 4. Recursos y presupuesto  
 5. Documentación técnica  
